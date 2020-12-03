@@ -1,6 +1,6 @@
 {
   "name": "minimal-slp-wallet-web-joey",
-  "version": "1.5.4",
+  "version": "1.5.6",
   "description": "A minimalist Bitcoin Cash (BCH) wallet npm library, for use in a web apps.",
   "main": "dist/minimal-slp-wallet-web.js",
   "scripts": {
@@ -38,6 +38,7 @@
     "@psf/bch-js": "file://home/joey/github/psf/bch-js/",
     "apidoc": "^0.25.0",
     "bch-donation": "^1.1.0",
+    "bch-js-joey": "^3.4.1",
     "crypto-js": "^4.0.0",
     "tinyify": "^3.0.0"
   },
